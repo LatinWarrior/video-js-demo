@@ -19,8 +19,6 @@ export class VideoJsComponent implements OnInit, OnDestroy {
 	@Input()
 	options:
 		{
-				fluid: boolean;
-				aspectRatio: string;
 				autoplay: boolean;
 				sources: {
 					src: string;

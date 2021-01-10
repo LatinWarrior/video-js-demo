@@ -34,7 +34,9 @@
               "src/styles.scss"
               
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/videojs-youtube/dist/Youtube.min.js"
+            ]
           },
           "configurations": {
             "production": {
